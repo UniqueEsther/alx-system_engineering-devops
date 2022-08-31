@@ -1,0 +1,2 @@
+#!/bin/bash
+mktemp -d log_dir_XXXX_my_first_directory
