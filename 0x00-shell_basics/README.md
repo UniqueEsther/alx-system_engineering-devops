@@ -1,1 +1,2 @@
-This file explains more about this repo. Read to learn more
+#!/bin/bash
+README file explains this repo
