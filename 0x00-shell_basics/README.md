@@ -1,2 +1,1 @@
-#!/bin/bash
-README file explains this repo
+This repo contains the command to write the script for various functions in linux
