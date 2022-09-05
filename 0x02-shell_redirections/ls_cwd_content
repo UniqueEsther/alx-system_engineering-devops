@@ -1,0 +1,16 @@
+total 64
+drwxr-xr-x 2 root root   307 Sep  5 15:46 .
+drwxr-xr-x 6 root root   121 Sep  5 01:40 ..
+-rwxr--r-- 1 root root    30 Sep  5 12:25 0-hello_world
+-rw------- 1 root root 12288 Sep  5 12:50 .0x02-shell_redirections.swp
+-rwxr--r-- 1 root root    31 Sep  5 13:37 1-confused_smiley
+-rwxr--r-- 1 root root    28 Sep  5 13:43 2-hellofile
+-rwxr--r-- 1 root root    39 Sep  5 13:57 3-twofiles
+-rwxr--r-- 1 root root    37 Sep  5 14:07 4-lastlines
+-rwxr--r-- 1 root root    36 Sep  5 14:51 6-third_line
+-rw------- 1 root root 12288 Sep  5 14:23 .6-third_line.swp
+-rwxr--r-- 1 root root    99 Sep  5 15:38 7-file
+-rwxr--r-- 1 root root    36 Sep  5 15:46 8-cwd_state
+-rw-r--r-- 1 root root    12 Sep  5 15:38 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Sep  5 15:46 ls_cwd_content
+-rw-r--r-- 1 root root    53 Sep  5 02:04 README.md
